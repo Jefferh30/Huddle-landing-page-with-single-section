@@ -103,9 +103,6 @@ body{
         text-align: center;
     }
 
-}
-
-@media only screen and (max-width: 1000px){
     .action-section h2{
         font-size: 1.7rem;
     }
